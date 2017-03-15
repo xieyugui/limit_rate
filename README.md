@@ -1,5 +1,6 @@
 # limit_rate
  主要参考和更改 纸鸢 开源的限速插件 https://github.com/cnkedao/trafficserver-ratemaster
+ 
  limit_rate是一个remap插件，分时间段进行限速，0hour=1048576 代表00点 限速为1048576字节/s：
 
 # For example:
